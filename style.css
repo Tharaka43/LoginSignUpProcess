@@ -1,0 +1,11 @@
+.b1{
+    background-image: url(img/background.webp);
+    background-repeat: no-repeat;
+    background-position:5% 10% ;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+/* .p1{
+    background-color: rgb(245, 237, 237);
+} */
